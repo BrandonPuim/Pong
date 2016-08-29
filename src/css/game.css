@@ -1,0 +1,12 @@
+#game {
+   background-color: #353535; /* add this! */
+   display: block;
+   height: 256px;
+   margin: 20px auto;
+   width: 512px;
+}
+
+h1 {
+   margin-top: 20px;
+   text-align: center;
+}
